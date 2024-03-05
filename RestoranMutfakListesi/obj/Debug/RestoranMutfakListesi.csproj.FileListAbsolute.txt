@@ -1,0 +1,10 @@
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\bin\Debug\RestoranMutfakListesi.exe.config
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\bin\Debug\RestoranMutfakListesi.exe
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\bin\Debug\RestoranMutfakListesi.pdb
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.csprojAssemblyReference.cache
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.Form1.resources
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.Properties.Resources.resources
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.csproj.GenerateResource.cache
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.csproj.CoreCompileInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.exe
+C:\Users\Selin\OneDrive\Masaüstü\2.sınıf\2\görsel programlama\ödev\RestoranMutfakListesi\RestoranMutfakListesi\obj\Debug\RestoranMutfakListesi.pdb
