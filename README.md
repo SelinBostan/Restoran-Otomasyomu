@@ -1,1 +1,1 @@
-# Restoran_Mutfak_Listesi
+Görsel programlama dersine yönelik restoran otomasyonu
